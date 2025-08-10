@@ -1,0 +1,17 @@
+Senior Data Analyst at Acme Corp
+
+Responsibilities:
+- Analyze business data to derive insights and drive strategy
+- Build dashboards in Tableau or Power BI
+- Collaborate with cross-functional teams to define KPIs
+- Develop and maintain SQL queries and ETL pipelines
+
+Requirements:
+- 4+ years in data analysis or related field
+- Strong SQL, Python (pandas), and data visualization
+- Experience with A/B testing and statistical modeling
+- Excellent communication and stakeholder management
+
+Nice to have:
+- Experience with cloud data warehouses (BigQuery, Snowflake, Redshift)
+- Familiarity with dbt and Airflow

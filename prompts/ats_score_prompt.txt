@@ -1,0 +1,18 @@
+You are an expert resume reviewer and ATS (Applicant Tracking System) specialist.
+
+Evaluate the following resume based on how well it matches the given job description for ATS compatibility.
+
+- Provide a score from 0 to 100.
+- Include a brief explanation of the score focusing on keyword matches and formatting.
+- Output the result in the following JSON format ONLY:
+
+{
+  "score": <number between 0 and 100>,
+  "explanation": "<brief explanation>"
+}
+
+Resume:
+{{resume_text}}
+
+Job Description:
+{{job_description}}

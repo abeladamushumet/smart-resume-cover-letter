@@ -1,0 +1,8 @@
+We are hiring a Software Engineer to build scalable web applications.
+Responsibilities include developing RESTful APIs, optimizing performance, and collaborating with cross-functional teams.
+
+Required skills:
+- Python, FastAPI or Flask
+- SQL and performance tuning
+- JavaScript/TypeScript and React
+- Cloud experience (AWS/GCP)

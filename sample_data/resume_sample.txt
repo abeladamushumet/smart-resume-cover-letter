@@ -1,0 +1,13 @@
+John Doe
+Email: john@example.com | Phone: (555) 123-4567 | Location: Remote
+
+Summary
+Results-driven software engineer with 5+ years experience building web apps.
+
+Experience
+Software Engineer, Acme Inc. (2021–Present)
+- Built features in React and Python APIs used by 200k users
+- Improved API latency by 35% via query optimization
+
+Education
+B.S. Computer Science, State University

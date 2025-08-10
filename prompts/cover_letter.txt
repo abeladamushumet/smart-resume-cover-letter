@@ -1,0 +1,15 @@
+You are an expert career writer. Write a concise, tailored cover letter for the candidate based on the resume and job description.
+
+Guidelines:
+- 3-5 short paragraphs
+- Specific alignment to the role
+- Reference 2-3 achievements that map to the job requirements
+- Professional, warm tone
+
+Job Description:
+{{job_description}}
+
+Resume:
+{{resume_text}}
+
+Deliver only the cover letter text with a sign-off and candidate name placeholder: {{candidate_name}}.
